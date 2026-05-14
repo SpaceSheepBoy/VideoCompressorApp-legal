@@ -1,6 +1,11 @@
-# Compressly Support
+---
+title: Support
+permalink: /support/
+---
 
-Use this page for help with Compressly, including compression, export, purchase restore, and photo library permission issues.
+# Video Compressor Support
+
+Use this page for help with Video Compressor, including compression, export, purchase restore, and photo library permission issues.
 
 ## Contact Support
 
@@ -9,7 +14,7 @@ Email: abel0911@icloud.com
 When contacting support, include:
 
 - iPhone model and iOS version
-- Compressly version
+- Video Compressor version
 - What you were trying to do
 - The file type involved, such as MP4, MOV, HEIC, JPEG, or PNG
 - Any error message shown in the app
@@ -19,7 +24,7 @@ When contacting support, include:
 - Make sure your device has enough free storage for temporary export files.
 - For large videos or batches, try processing fewer files at once.
 - If saving fails, check Photos permission in iOS Settings.
-- If a purchase is missing, open Compressly Settings and tap Restore purchase.
+- If a purchase is missing, open Video Compressor Settings and tap Restore purchase.
 - If exported media is hard to find, check Photos > Recently Added.
 
 ## Report a Technical Issue
@@ -32,5 +37,5 @@ Do not attach private videos, photos, or personal media to a GitHub issue unless
 
 ## Privacy and Terms
 
-- Privacy Policy: https://github.com/SpaceSheepBoy/VideoCompressorApp-legal/blob/main/PRIVACY.md
-- Terms of Service: https://github.com/SpaceSheepBoy/VideoCompressorApp-legal/blob/main/TERMS.md
+- [Privacy Policy](/VideoCompressorApp-legal/privacy/)
+- [Terms of Service](/VideoCompressorApp-legal/terms/)
