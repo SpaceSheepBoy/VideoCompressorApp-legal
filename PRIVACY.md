@@ -43,6 +43,10 @@ This policy may be updated when Compressly changes. The effective date at the to
 
 ## Contact
 
-For privacy questions, use the support page:
+For privacy questions, contact:
+
+abel0911@icloud.com
+
+Support page:
 
 https://github.com/SpaceSheepBoy/VideoCompressorApp-legal/blob/main/SUPPORT.md

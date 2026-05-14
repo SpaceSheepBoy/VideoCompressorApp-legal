@@ -44,6 +44,10 @@ These terms may be updated when Compressly changes. The effective date at the to
 
 ## Contact
 
-For questions about these terms, use the support page:
+For questions about these terms, contact:
+
+abel0911@icloud.com
+
+Support page:
 
 https://github.com/SpaceSheepBoy/VideoCompressorApp-legal/blob/main/SUPPORT.md
