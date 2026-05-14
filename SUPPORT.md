@@ -27,14 +27,6 @@ When contacting support, include:
 - If a purchase is missing, open Video Compressor Settings and tap Restore purchase.
 - If exported media is hard to find, check Photos > Recently Added.
 
-## Report a Technical Issue
-
-If you prefer GitHub, you can also open a public issue:
-
-https://github.com/SpaceSheepBoy/VideoCompressorApp-legal/issues/new
-
-Do not attach private videos, photos, or personal media to a GitHub issue unless you are comfortable making them public.
-
 ## Privacy and Terms
 
 - [Privacy Policy](/VideoCompressorApp-legal/privacy/)
